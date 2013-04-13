@@ -1,0 +1,5 @@
+redo savestate()
+integrate gnuplot
+
+visualization:
+splot "./lattice - T0.1rho0.2x.dat" using 1:2:3:(1):(0):(0) with vectors filled head lw 2, "./lattice - T0.1rho0.2y.dat" using 1:2:3:(0):(1):(0) with vectors filled head lw 2, "./lattice - T0.1rho0.2z.dat" using 1:2:3:(0):(0):(1) with vectors filled head lw 2

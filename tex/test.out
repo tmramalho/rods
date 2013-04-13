@@ -1,0 +1,24 @@
+\BOOKMARK [1][-]{section.1}{Introdu\347\343o aos m\351todos de simula\347\343o}{}
+\BOOKMARK [1][-]{section.2}{Introdu\347\343o ao m\351todo de Monte Carlo}{}
+\BOOKMARK [2][-]{subsection.2.1}{Processos de Markov}{section.2}
+\BOOKMARK [2][-]{subsection.2.2}{Ergodicidade}{section.2}
+\BOOKMARK [2][-]{subsection.2.3}{Detailed balance}{section.2}
+\BOOKMARK [2][-]{subsection.2.4}{Algoritmo de Metropolis}{section.2}
+\BOOKMARK [2][-]{subsection.2.5}{Tempo de correla\347\343o}{section.2}
+\BOOKMARK [1][-]{section.3}{Modelos em estudo}{}
+\BOOKMARK [2][-]{subsection.3.1}{Modelo de Ising}{section.3}
+\BOOKMARK [2][-]{subsection.3.2}{Modelo de agrega\347\343o linear}{section.3}
+\BOOKMARK [2][-]{subsection.3.3}{Implementa\347\343o e an\341lise de dados}{section.3}
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Modelo de Ising}{subsection.3.3}
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Modelo de agrega\347\343o linear 2D}{subsection.3.3}
+\BOOKMARK [3][-]{subsubsection.3.3.3}{Modelo de agrega\347\343o linear 3D}{subsection.3.3}
+\BOOKMARK [1][-]{section.4}{Conclus\365es}{}
+\BOOKMARK [1][-]{section.5}{Imagens}{}
+\BOOKMARK [2][-]{subsection.5.1}{Modelo de Ising}{section.5}
+\BOOKMARK [2][-]{subsection.5.2}{Modelo de Agrega\347\343o linear a 2D}{section.5}
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Visualiza\347\343o}{subsection.5.2}
+\BOOKMARK [3][-]{subsubsection.5.2.2}{Resultados experimentais}{subsection.5.2}
+\BOOKMARK [2][-]{subsection.5.3}{Modelo de Agrega\347\343o linear a 3D}{section.5}
+\BOOKMARK [3][-]{subsubsection.5.3.1}{Resultados experimentais: =0.1}{subsection.5.3}
+\BOOKMARK [3][-]{subsubsection.5.3.2}{Resultados experimentais: =0.2}{subsection.5.3}
+\BOOKMARK [3][-]{subsubsection.5.3.3}{Visualiza\347\343o}{subsection.5.3}
